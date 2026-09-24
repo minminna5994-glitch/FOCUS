@@ -1,0 +1,7 @@
+{
+  "name": "Focus City",
+  "description": "เวลาที่คุณโฟกัส กำลังสร้างเมืองของคุณ - แอปจัดเวลาและช่วยโฟกัสพร้อมระบบพัฒนาเมืองสไตล์ Isometric Miniature",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
